@@ -20,7 +20,7 @@ Por exemplo, se você quer procurar por uma imagem relacionada ao Debian, o coma
 sudo docker search debian
 ```
 
-[Output Hello World Docker](img/docker-hello-world.webp)
+![Output Hello World Docker](img/output-hello-world-docker.png "Output Hello World Docker")
 
 Então, para fazer o download da imagem para o seu computador, use o nome da imagem junto com o comando a seguir:
 
