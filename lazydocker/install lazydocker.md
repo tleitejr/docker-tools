@@ -2,7 +2,7 @@
 
 [LazyDocker](https://github.com/jesseduffield/lazydocker) é uma nova interface de usuário de terminal livre e de código aberto para Docker e Docker Compose.
 
-![Interface LazyDocker](../img/Interface lazydocker.jpg "Interface lazyDocker")
+![Interface LazyDocker](../img/interface-lazydocker.jpg "Interface lazyDocker")
 
 Ela permite visualizar o estado de um ambiente de contêineres de composição de janela de encaixe ou Docker, exibir logs, reiniciar/remover/reconstruir contêineres ou serviços e muito mais.
 
@@ -57,6 +57,6 @@ Uma lista de atalhos de teclado do LazyDocker pode ser encontrada acessando [est
 
 Além disso, o desenvolvedor do LazyDocker criou um tutorial em vídeo básico sobre essa ferramenta de linha de comando com duas semanas, que você pode assistir abaixo:
 
-![LazyDocker no Linux](../img/LazyDocker no Linux.gif "LazyDocker no Linux")
+![LazyDocker no Linux](../img/lazydocker-no-linux.gif "LazyDocker no Linux")
 
 Fonte: [Blog do Edivaldo - informações e Notícias sobre Linux](https://www.edivaldobrito.com.br/interface-de-usuario-para-docker-lazydocker-no-linux/)
